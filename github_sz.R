@@ -5,7 +5,7 @@ szam3 <- 22
 szam4 <- 11
 
 # Átlag számítása
-atlag <- (szam1 + szam2 + szam3) / 3
+atlag <- (szam1 + szam2 + szam3 + szam4) / 4 #a három szám kiegészítése egy negyedik számmal, és a képlet javítása
 
 # Eredmény kiíratása
-print(paste("A három szám átlaga:", atlag))
+print(paste("A négy szám átlaga:", atlag)) #móddosítás háromról négyre
