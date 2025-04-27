@@ -1,6 +1,6 @@
 # Három szám definiálása
 szam1 <- 20
-szam2 <- 20
+szam2 <- 15
 szam3 <- 20
 
 # Átlag számítása
